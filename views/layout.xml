@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data>
+		<template id="website_back_to_top_button" inherit_id="website.layout">
+            <xpath expr="//body" position="inside">
+                <a href="#" class="back-to-top">Back to Top</a>
+            </xpath>
+		</template>
+	</data>
+</openerp>
